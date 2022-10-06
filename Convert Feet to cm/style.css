@@ -1,0 +1,43 @@
+#container {
+    margin: auto;
+    width: 50vw;
+    height: 80vh;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+#result {
+    text-align: center;
+    color: yellow;
+    padding-top: 150px;
+    font-size: 30px;
+}
+
+form {
+    display: grid;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+label {
+    color: White;
+}
+
+#cm {
+    width: 130px;
+    height: 30px;
+    background-color: red;
+    color: white;
+}
+
+#cm:hover {
+    cursor: pointer;
+    color: red;
+    background-color: rgb(37, 119, 173);
+}
